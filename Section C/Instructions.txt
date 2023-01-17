@@ -1,0 +1,1 @@
+To run, the program does not have any special requirements. Only Java and the jdk need to be installed.
